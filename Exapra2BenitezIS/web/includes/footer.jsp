@@ -7,9 +7,10 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
         <div class="container">
-            <div class="jumbotron">  
+            <div>  
                 <center>
-                    <h2>Derechos reservados</h2>
+                    <h2>Derechos reservados Oswaldo Benitez Camacho 157712</h2>
+                    <p><%= new java.util.Date() %></p>
                 </center>
             </div>
         </div>

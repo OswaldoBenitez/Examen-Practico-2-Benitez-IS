@@ -18,10 +18,10 @@
                 <div class="form-group">
                     <h3>Nombre produto</h3>
                     <input type="text" name="nombre" class="form-control" placeholder="Captura Producto" required/>
-                    <h3>Cantidad produto</h3>
-                    <input type="number" name="cantidad" class="form-control" placeholder="Captura Cantidad" required value="0"/>
                     <h3>Precio produto</h3>
                     <input type="number" name="precio" class="form-control" placeholder="Captura Precio" required/>
+                    <h3>Cantidad produto</h3>
+                    <input type="number" name="cantidad" class="form-control" placeholder="Captura Cantidad" required value="0"/>
                     <br><br>
                     <input type="submit" class="btn btn-primary" value="Calcular venta"/>
                     <input type="reset" class="btn btn-danger" value="Limpiar datos"/>

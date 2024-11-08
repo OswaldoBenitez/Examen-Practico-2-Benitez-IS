@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page Software IS Benitez</title>
+        <title>Examen practico 2 Benitez</title>
         <!-----------------------------BOOTSTRAP----------------------------->
         <!--Icono-->
         <link rel="Icon" type="img/png" href="img/logoicono.png">
@@ -55,11 +55,11 @@
         <!-----------------------------/BOOTSTRAP----------------------------->
 
     </head>
-    <body style="background-color: #1b6d85">
+    <body style="background-color: #237859">
         <div class="container">
-            <div class="jumbotron">  
+            <div>  
                 <center>
-                    <h2>Examen Practico 2 Benitez SA de CV</h2>
+                    <h2 style="color: white">Examen Practico 2 Benitez SA de CV</h2>
                 </center>
             </div>
         </div>

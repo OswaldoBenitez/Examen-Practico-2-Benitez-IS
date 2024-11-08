@@ -26,6 +26,7 @@
                 <hr>
                 <h4> Venta total:  <%= venta %></h4>
             </div>
+            <a style="font-size: 20px" href="index.jsp">Regresar</a>
         </center>
     </div>
 </div>
